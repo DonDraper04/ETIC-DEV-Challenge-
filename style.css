@@ -1,0 +1,11 @@
+@font-face {
+	font-family:Outfit;
+	src: 
+		url(/static/Outfit-Medium.ttf) format(‘truetype’),
+        url(/static/Outfit-Medium.woff2) format(‘woff2’)
+}
+
+
+.OTF{
+    font-family: Outfit;
+}
